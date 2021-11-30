@@ -1,7 +1,6 @@
 <?php
 //exibe a mensagem no navegador
 echo "Olá Mundo- Me Chamo Rodrigo Gonzaga";
-echo "Nova linha de texto";
-echo " nova linha 3"
-
-
+echo "Olá Mundo- Me Chamo Marcia";
+echo "Olá Mundo- Me Chamo Pedro";
+echo "Olá Mundo- Me Chamo Israel";
